@@ -32,3 +32,6 @@ npm install axios
 ```sh
 node index.js
 ```
+## Channel Telegram
+https://t.me/AirdropFamilyIDN
+https://t.me/boterdrop
