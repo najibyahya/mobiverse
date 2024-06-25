@@ -17,7 +17,7 @@
 - Copy bagian user=xxxxxx / query_id=xxxxxxx
 - Paste hash di token.txt
 
-![image](https://github.com/andraz404/mobiverse/assets/169606426/7ca7f0fa-8ba7-4ed0-962e-27cae960b3b7)
+![image](https://github.com/andraz404/mobiverse/assets/169606426/ebc0805e-4030-40fe-b74a-7c1045521c7b)
 
 ## Installation & Run
 ```sh
