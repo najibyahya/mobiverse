@@ -33,5 +33,5 @@ npm install axios
 node index.js
 ```
 ## Channel Telegram
-https://t.me/AirdropFamilyIDN
-https://t.me/boterdrop
+- [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
+- [BotErdrop](https://t.me/boterdrop)
